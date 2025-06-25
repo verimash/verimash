@@ -10,6 +10,7 @@
 | `RadioMobile`  | `Proprietary-Software` | `Программный комплекс для частотно-территориального планирования сетей мобильной связи (LTE/5G)` | `C++/Web, sqlite3` | `2024-наст.вр.` | [Узнать подробнее]() |
 | `DataPacker`  | `Proprietary-Software` | `Программный комплекс для мониторинга устройств на базе Android (местоположение, состояние сети, быстрый обмен информацией по сетям GSM)` | `Java/Kotlin, Python/Web, sqlite3` | `2024-наст.вр.` | [Узнать подробнее]() |
 | `RZD-Monitor`    | `Closed-Source` | `Система для мониторинга билетов rzd.ru на базе Telegram-бота` | `Python, sqlite3` | `2024` | [Узнать подробнее]() |
+| `AMpingTools`    | `Open-Source` | `Временное исправление маршрутизации TCPshield (Minecraft) для AresMine` | `Java` | `2024` | [Узнать подробнее](https://github.com/verimash/PingToolsARESMiNE) |
 | `Edu.Eljur`    | `Closed-Source` | `Система Eljur на базе Telegram-бота` | `Python, sqlite3` | `2023-2025` | [Узнать подробнее]() |
 | `ASYP`    | `Closed-Source` | `Система управления персоналом на базе Telegram-бота/Админ-морды, создаваемая специально для майнкрафт-проекта AresMine` | `Python/JS/C#, MySQL, storageNode` | `2022-2024` | [Узнать подробнее]() |
 
